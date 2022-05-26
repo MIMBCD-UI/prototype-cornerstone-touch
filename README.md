@@ -145,7 +145,7 @@ When source code, documentation and other content is contributed to one of our r
 
 #### Intellectual Property
 
-The content of the present repository has obtained the patent right of [World Intellectual Property Organization (WIPO)](https://www.wipo.int) invention. Moreover, the hereby invention of the [`prototype-prototype-cornerstone-touch`](https://github.com/MIMBCD-UI/prototype-cornerstone-touch) repository is under protection of the patent number **[WO2022071818A1](https://patents.google.com/patent/WO2022071818A1)** with the application number **PCT/PT2021/050029**. The title of the invention is "*Computational Method and System for Improved Identification of Breast Lesions*", registered under the WO patent office.
+The content of the present repository has obtained the patent right of [World Intellectual Property Organization (WIPO)](https://www.wipo.int) invention. Moreover, the hereby invention of the [`prototype-cornerstone-touch`](https://github.com/MIMBCD-UI/prototype-cornerstone-touch) repository is under protection of the patent number **[WO2022071818A1](https://patents.google.com/patent/WO2022071818A1)** with the application number **PCT/PT2021/050029**. The title of the invention is "*Computational Method and System for Improved Identification of Breast Lesions*", registered under the WO patent office.
 
 ### Acknowledgments
 
