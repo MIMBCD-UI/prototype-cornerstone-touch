@@ -2,7 +2,7 @@
 
 <img src="https://github.com/MIMBCD-UI/prototype-multi-modality/blob/master/assets/banner.png?raw=true"/>
 
-In this repository, we present one of the used prototypes for our [User Tests and Analysis 1 (UTA1)]([https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-4-single-modality-vs-multi-modality-](https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-1-)) study. Work and results are published on a top [Human-Computer Interaction (HCI)](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) conference named [ISS 2017](https://dl.acm.org/doi/proceedings/10.1145/3132272) ([page]([https://sites.google.com/unisa.it/avi2020](https://iss2017.acm.org/))). We also have several demos to see in our [YouTube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw), please follow us.
+In this repository, we present one of the used prototypes for our [User Tests and Analysis 1 (UTA1)](https://github.com/MIMBCD-UI/meta/wiki/User-Research#test-1-) study. Work and results are published on a top [Human-Computer Interaction (HCI)](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) conference named [ISS 2017](https://dl.acm.org/doi/proceedings/10.1145/3132272) ([page]([https://sites.google.com/unisa.it/avi2020](https://iss2017.acm.org/))). We also have several demos to see in our [YouTube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw), please follow us.
 
 ## Citing
 
