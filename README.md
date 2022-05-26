@@ -137,7 +137,7 @@ For more information about the [MIMBCD-UI](https://mimbcd-ui.github.io/) Project
 
 Copyright © 2017 [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/)
 
-The [`prototype-cornerstone-touch`](https://github.com/MIMBCD-UI/prototype-cornerstone-touch) repository is distributed under the terms of both [Academic License](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/ACADEMIC.md) and [Commercial License](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/COMMERCIAL.md), for academic and commercial purpose, respectively. For more information regarding the [License](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/LICENSE.md) of the hereby repository, just follow both [ACADEMIC](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/ACADEMIC.md) and [COMMERCIAL](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/COMMERCIAL.md) files.
+The [`prototype-cornerstone-touch`](https://github.com/MIMBCD-UI/prototype-cornerstone-touch) repository is distributed under the terms of both [Academic License](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/ACADEMIC.md) and [Commercial License](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/COMMERCIAL.md), for academic and commercial purpose, respectively. For more information regarding the [License](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/LICENSE.md) of the hereby repository, just follow both [`ACADEMIC.md`](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/ACADEMIC.md) and [`COMMERCIAL.md`](https://github.com/MIMBCD-UI/prototype-cornerstone-touch/blob/master/COMMERCIAL.md) files.
 
 #### Copyright
 
